@@ -1,0 +1,43 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+
+}
+img {
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #d4e9e2;
+  border-radius: 50%; 
+  padding: 5px; 
+  margin-bottom: 20px
+}
+.hero.is-success {
+  background: url('https://vejasp.abril.com.br/wp-content/uploads/2016/11/starbucks-2.jpeg');
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.box {
+  background-color: #00704a69;
+}
+input {
+  font-weight: 300;
+  margin-top: 5px;
+}
+p {
+  font-weight: 700;
+}
+
+.button {
+  background-color: #27251F!important;
+}
+
+.field {
+  color: #d4e9e2;
+}
+
+.has-text-custom {
+  color: #d4e9e2;
+}
